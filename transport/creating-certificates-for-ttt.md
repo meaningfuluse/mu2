@@ -21,7 +21,7 @@ Running the Canned version of CertGen using VMWare
 
 1. Download the file [http://certgen.s3.amazonaws.com/certGen-Ubuntu-12-LTS-64bit.zip]
 (http://certgen.s3.amazonaws.com/certGen-Ubuntu-12-LTS-64bit.zip)
-1. Unzip the file "certGen-Ubuntu-12-LTS-64bit.zip" to a folder such as "certgen-vm".
+1. Unzip the file "certGen-Ubuntu-12-LTS-64bit.zip" to a folder such as "certgen-vm".  For MacOSX users you will need to install MacPorts and install p7zip else you will get the error, "skipping: vmware/Direct-certGen-Ubuntu12-LTS-64-bit/Direct certGen - Ubuntu 64-bit.vmdk  need PK compat. v4.5 (can do v2.1)".  See http://www.ifusio.com/blog/unzip-issue-on-osx-need-pk-compat-v4-5-can-do-v2-1 for instuctions.
 2. Download VMWare Player from [http://www.vmware.com/products/player/]
 (http://www.vmware.com/products/player/)
 3. Start VMWare Player.
